@@ -1,1 +1,1 @@
-gemini_key = "AIzaSyCoiv7Mt7XBP_G1ZIkOjjfbiUvSRcb5-u4"
+gemini_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
